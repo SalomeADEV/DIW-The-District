@@ -17,8 +17,12 @@
   
 
   */
+  
 .parallax{
-  background-image:url("https://www.codeur.com/tuto/wp-content/uploads/2022/02/p1.jpg");
+  /*
+   background-image:url("https://www.codeur.com/tuto/wp-content/uploads/2022/02/p1.jpg");
+   */
+  
 background-attachment: fixed; /* Fixe l'image pendant le scroll */
 background-size: cover; /* L'image prendra 100% de l'espace, quitte à la crop */
 background-position: center; /* Centre la position de l'image */
@@ -34,4 +38,11 @@ background-repeat: no-repeat; /* Empêche l'image de se répéter en fonction de
   min-height: 100%;
   z-index: -1; /* Placez la vidéo derrière les autres éléments */
   opacity: 0.6; /* Diminuez l'opacité pour que le texte reste lisible */
+}
+
+.card-img-top {
+  max-width: 100%;
+  height: 400px;
+  object-fit: cover;
+  object-position: center;
 }
