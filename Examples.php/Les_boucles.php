@@ -81,6 +81,7 @@ for ($i = 0; i < 500; i++){
     </tr>
   </thead>
   <tbody>
+
     <?php 
     for ($i=1;$i<10;$i++)
     {
@@ -99,7 +100,25 @@ for ($i = 0; i < 500; i++){
     </tr>
     <?php 
     }
-    ?>
+    ?>?php
+
+for ($i=1;$i<10;$i++)
+
+
+<tr>
+      <th scope="row"><?php echo($i); ?></th>
+      <td><?php echo($i * 1); ?></td>
+      <td><?php echo($i * 2); ?></td>
+      <td><?php echo($i * 3); ?></td>
+      <td><?php echo($i * 4); ?></td>
+      <td><?php echo($i * 5); ?></td>
+      <td><?php echo($i * 6); ?></td>
+      <td><?php echo($i * 7); ?></td>
+      <td><?php echo($i * 8); ?></td>
+      <td><?php echo($i * 9); ?></td>
+    </tr>
+    
+    
   </tbody>
 </table>
 
