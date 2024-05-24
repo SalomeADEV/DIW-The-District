@@ -91,22 +91,55 @@
     "Islamabad" => "Pakistan",
     "Vienne" => "Autriche",
     "Vilnius" => "Lituanie",
-    "Zagreb" => "Croatie");
-
-   asort($capitales);
-
-   foreach($capitales as $ville=>$pays){
-    echo $pays."=>".$ville."<br>";
-   }
+    "Zagreb" => "Croatie",
+    "Tokyo" => "Japon",
+    "Tunis" => "Tunisie",
+    "Copenhague" => "Danemark",
+    "Dakar" => "Sénégal",
+    "Damas" => "Syrie",
+    );
 
    echo "<br><br>";
    ksort($capitales);
 
    foreach($capitales as $ville=>$pays){
-        if ($ville[0] != 'D'){
+    // "Tokyo" => "Japon",
+    // "Tunis" => "Tunisie",
+    // "Copenhague" => "Danemark",
+    // "Dakar" => "Sénégal",
+    // "Damas" => "Syrie",
+        if ($ville[0] != 'B'){
             echo $ville."=>".$pays."<br>";
         }
    }
+
   ?>
+  <!---------->
+
+<?php 
+ 
+ $departements = array(
+  "Hauts-de-france" => array("Aisne", "Nord", "Oise", "Pas-de-Calais", "Somme"),
+  "Bretagne" => array("Côtes d'Armor", "Finistère", "Ille-et-Vilaine", "Morbihan"),
+  "Grand-Est" => array("Ardennes", "Aube", "Marne", "Haute-Marne", "Meurthe-et-Moselle", "Meuse", "Moselle", "Bas-Rhin", "Haut-Rhin", "Vosges"),
+  "Normandie" => array("Calvados", "Eure", "Manche", "Orne", "Seine-Maritime")
+);
+echo "<br>";
+
+// for($nb1=0;$nb1<=count($departements)-1;$nb1++)
+// {
+//   echo $departements[$nb1]."<br>";
+// }
+ksort($departements);
+foreach($departements as $regions => $value){
+  echo $regions."=>";
+  $region = $departements[$regions];
+  foreach($region as $key => $departement){
+    echo $departement." , ";
+  }
+  echo "<br>il y a ".count($departements[$regions])." departement dans ce tableau"."<br>";
+}
+?>
+
 </body>
 </html>
