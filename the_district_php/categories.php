@@ -19,9 +19,6 @@
   ?>
 
     <!-------catégories_plats-->
-
-
-  
     
         <div class="container">
 
@@ -29,11 +26,11 @@
 
             <div class="col-md-4">
               <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-                <img src="assets/img/food/pizza.jpg" assets class="img-fluid rounded-start" alt="pizza">
+              <a href="categoriepizza.php">  <img src="assets/img/food/pizza.jpg" assets class="img-fluid rounded-start" alt="pizza"></a>
                 <div class="card-body">
                   <h5 class="card-title">Pizza</h5>
                   <p class="card-text">
-                    <small class="text-body-secondary">De bonnes pizzas avec de bons ingrédients, mangez-en !</small>
+                    <small class="text-body-secondary">De bonnes pizzas , regalez-vous!</small>
                   </p>
                 </div>
               </div>
@@ -41,85 +38,59 @@
 
             <div class="col-md-4">
               <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-                <img src="assets/img/food/salad1.png" class="img-fluid rounded-start" alt="Salade1">
+              <a href="categoriesalade.php"> <img src="assets/img/food/salad1.png" class="img-fluid rounded-start" alt="Salade1"></a>
                 <div class="card-body">
                   <h5 class="card-title">Salade</h5>
                   <p class="card-text">
-                    <small class="text-body-secondary">ici le texte</small>
+                    <small class="text-body-secondary">Salade Cesar</small>
                   </p>
                 </div>
               </div>
             </div>
 
-        <!------->
-
-
-      <div class="col-md-4">
-          <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-              <img src="assets/img/category/asian_food_cat.jpg" class="img-fluid rounded-start" alt="asian_food">
-            <div class="card-body">
-                <h5 class="card-title">Plats chauds</h5>
-                <p class="card-text"><small class="text-body-secondary">ici le texte</small>Sushi</p>
+          <div class="col-md-4">
+            <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
+            <a href="">    <img src="assets/img/category/asian_food_cat.jpg" class="img-fluid rounded-start" alt="asian_food"></a>
+              <div class="card-body">
+                <h5 class="card-title">cuisine asiatique</h5>
+                <p class="card-text"><small class="text-body-secondary">Du riz et du poisson</small>Sushi</p>
+              </div>
             </div>
           </div>
-        </div>
         
 
 
-        <!---------->
-
-        <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="assets/img/food/pizza-salmon.png" class="img-fluid rounded-start" alt="pizza-salmon">
-            </div>
-            <div class="col-md-6">
-              <div class="card-body">
-                <h5 class="card-title">Vegan</h5>
-                <p class="card-text">pizza-salmon</p>
-                <p class="card-text"><small class="text-body-secondary">ici le texte</small></p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
-
-
-
-        <!--------->
-
-        <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="assets/img/food/tagliatelles-au-saumon.jpeg" class="img-fluid rounded-start" alt="Pâtes">
-            </div>
-            <div class="col-md-6">
-              <div class="card-body">
-                <h5 class="card-title">Pâtes</h5>
-                <p class="card-text">Tagliatelles</p>
-                <p class="card-text"><small class="text-body-secondary">ici le texte</small></p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
         <!------->
 
+        <div class="row">
 
-
-
-        <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="" class="img-fluid rounded-start" alt="">
-            </div>
-            <div class="col-md-6">
+          <div class="col-md-4">
+            <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
+            <a href="">    <img src="assets/img/category/sandwich_cat.jpg" class="img-fluid rounded-start" alt="sandwichs"> </a>   
               <div class="card-body">
-                <h5 class="card-title"></h5>
-                <p class="card-text"></p>
-                <p class="card-text"><small class="text-body-secondary">ici le texte</small></p>
+                <h5 class="card-title">Sandwichs</h5>
+                <p class="card-text"><small class="text-body-secondary">Des trucs entre deux tranches de pain.</small></p>
+              </div>
+            </div>
+          </div>
+        
+
+          <div class="col-md-4">
+              <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
+              <a href="categoriepates.php">   <img src="assets/img/category/pasta_cat.jpg" class="img-fluid rounded-start" alt="Pâtes"></a>
+                <div class="card-body">
+                  <h5 class="card-title">Pâtes</h5>
+                  <p class="card-text"><small class="text-body-secondary">Des pâtes au brocoli</small></p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
+              <a href="categorieburger.php">    <img src="assets/img/category/burger_cat.jpg" class="img-fluid rounded-start" alt="burger"></a>
+                <div class="card-body">
+                <h5 class="card-title">burger</h5>
+                <p class="card-text"><small class="text-body-secondary">De la salade et un bon steak hache</small></p>
               </div>
             </div>
           </div>
