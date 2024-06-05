@@ -30,11 +30,11 @@
 
   <div class="col-md-4">
     <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
- <img src="assets/img/food/pizza.jpg" assets class="img-fluid rounded-start" alt="pizza">
+ <img src="assets/img/category/sandwich_cat.jpg" assets class="img-fluid rounded-start" alt="sandwich">
       <div class="card-body">
-        <h5 class="card-title">Pizza_Margharita</h5>
+        <h5 class="card-title">Sandwich</h5>
         <p class="card-text">
-          <small class="text-body-secondary">De bonnes pizzas , regalez-vous!</small>
+          <small class="text-body-secondary">Sandwich avec du pain de mie</small>
           <button type="button" class="btn btn-primary btn-sm">Commander</button>
         </p>
       </div>
@@ -43,11 +43,11 @@
 
   <div class="col-md-4">
     <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-      <img src="assets/img/menu-pizza.jpg" class="img-fluid rounded-start" alt="menu_pizza">
+   <img src="assets/img/category/wrap_cat.jpg" class="img-fluid rounded-start" alt="wrap">
       <div class="card-body">
-        <h5 class="card-title">Pizza</h5>
+        <h5 class="card-title">Sandwich wrap</h5>
         <p class="card-text">
-          <small class="text-body-secondary">pizza au basilic</small>
+          <small class="text-body-secondary">Sandwich chaud au poulet</small>
           <button type="button" class="btn btn-primary btn-sm">Commander</button>
         </p>
       </div>
@@ -56,11 +56,12 @@
 
 <div class="col-md-4">
   <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-    <img src="assets/img/pizza1.jpg" class="img-fluid rounded-start" alt="pizza">
+  <img src="assets/img/food/Food-Name-3631.jpg" class="img-fluid rounded-start" alt="Croque-monsieur">
     <div class="card-body">
-      <h5 class="card-title">Pizza</h5>
-      <p class="card-text"><small class="text-body-secondary">Pizza_oignons_pomme de terre</small>Pizza</p>
+      <h5 class="card-title">Croque-monsieur</h5>
+      <p class="card-text"><small class="text-body-secondary"></small>
       <button type="button" class="btn btn-primary btn-sm">Commander</button>
+    </p>
     </div>
   </div>
 </div>

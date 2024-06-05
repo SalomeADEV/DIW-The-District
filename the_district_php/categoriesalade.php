@@ -30,23 +30,26 @@
 
 <div class="col-md-4">
               <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-              <a href=""> <img src="assets/img/food/salad1.png" class="img-fluid rounded-start" alt="Salade1"></a>
+              <img src="assets/img/food/salad1.png" class="img-fluid rounded-start" alt="Salade1">
                 <div class="card-body">
                   <h5 class="card-title">Salade</h5>
                   <p class="card-text">
                     <small class="text-body-secondary">Salade Cesar</small>
+                    <button type="button" class="btn btn-primary btn-sm">Commander</button>
                   </p>
+              
                 </div>
               </div>
             </div>
 
   <div class="col-md-4">
     <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-      <img src="assets/img/food/cesar_salad.jpg" class="img-fluid rounded-start"  alt="Salade1"></a>
+      <img src="assets/img/food/cesar_salad.jpg" class="img-fluid rounded-start"  alt="Salade1">
       <div class="card-body">
         <h5 class="card-title">Salade</h5>
         <p class="card-text">
           <small class="text-body-secondary">Salade au poulet</small>
+          <button type="button" class="btn btn-primary btn-sm">Commander</button>
         </p>
       </div>
     </div>
@@ -54,11 +57,12 @@
 
 <div class="col-md-4">
   <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-    <img src="assets/img/food/salade_composee_authon(1).jpeg" class="img-fluid rounded-start"  alt="Salade1"></a>
+    <img src="assets/img/food/salade_composee_authon(1).jpeg" class="img-fluid rounded-start"  alt="Salade1">
     <div class="card-body">
       <h5 class="card-title">Salade</h5>
       <p class="card-text">
         <small class="text-body-secondary">Salade composée au thon</small>
+        <button type="button" class="btn btn-primary btn-sm">Commander</button>
     </p>
     </div>
   </div>

@@ -19,6 +19,15 @@
   ?>
 
     <!-------catégories_plats-->
+
+
+
+
+
+
+
+
+  
     
         <div class="container">
 
@@ -50,10 +59,10 @@
 
           <div class="col-md-4">
             <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-            <a href="">    <img src="assets/img/category/asian_food_cat.jpg" class="img-fluid rounded-start" alt="asian_food"></a>
+            <a href="categorieasiatique.php">    <img src="assets/img/category/asian_food_cat.jpg" class="img-fluid rounded-start" alt="asian_food"></a>
               <div class="card-body">
                 <h5 class="card-title">cuisine asiatique</h5>
-                <p class="card-text"><small class="text-body-secondary">Du riz et du poisson</small>Sushi</p>
+                <p class="card-text"><small class="text-body-secondary"></small>Sushi</p>
               </div>
             </div>
           </div>
@@ -66,7 +75,7 @@
 
           <div class="col-md-4">
             <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-            <a href="">    <img src="assets/img/category/sandwich_cat.jpg" class="img-fluid rounded-start" alt="sandwichs"> </a>   
+            <a href="categoriesandwich.php">    <img src="assets/img/category/sandwich_cat.jpg" class="img-fluid rounded-start" alt="sandwichs"> </a>   
               <div class="card-body">
                 <h5 class="card-title">Sandwichs</h5>
                 <p class="card-text"><small class="text-body-secondary">Des trucs entre deux tranches de pain.</small></p>
@@ -94,6 +103,21 @@
               </div>
             </div>
           </div>
+
+
+
+          div class="col-md-4">
+              <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
+              <a href="categorieveggie.php">    <img src="assets/img/category/veggie_cat.jpg" class="img-fluid rounded-start" alt="veggie"></a>
+                <div class="card-body">
+                <h5 class="card-title">Veggie</h5>
+                <p class="card-text"><small class="text-body-secondary">Veggie</small></p>
+              </div>
+            </div>
+          </div>
+
+
+
         </div>
 
 

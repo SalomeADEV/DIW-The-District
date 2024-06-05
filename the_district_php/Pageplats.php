@@ -98,7 +98,7 @@
               <img src="assets/img/food/spaghetti-legumes.jpg" class="d-block w-100" alt="spaghetti-legumes">
             </div>
             <div class="carousel-item">
-              <img src="assets/img/food/tagliatelles-saumon.webp" class="d-block w-100" alt="tagliatelles-saumon">
+              <img src="assets/img/food/tagliatelles-au-saumon.jpeg" class="d-block w-100" alt="tagliatelles_saumon">
             </div>
             <div class="carousel-item">
               <img src="assets/img/Team_Restau/poulet_dg.jpg" class="d-block w-100" alt="poulet DG">
@@ -106,7 +106,36 @@
             <div class="carousel-item">
               <img src="assets/img/Team_Restau/Poulet_Yassa.jpg" class="d-block w-100" alt="poulet_yassa">
             </div>
+            <div class="carousel-item">
+              <img src="assets/img/Team_Restau/Beignets_haricots.jpeg" class="d-block w-100" alt="beignets - haricots rouges">
+            </div>
+            <div class="carousel-item">
+              <img src="assets/img/Team_Restau/okok.jpg" class="d-block w-100" alt="okok avec du manioc">
+            </div>
+            
+            <div class="carousel-item">
+              <img src="assets/img/Team_Restau/Ndole.jpg" class="d-block w-100" alt="ndolè accompagné de baton de manioc">
+            </div>
+            <div class="carousel-item">
+              <img src="assets/img/food/asiat2.jpeg" class="d-block w-100" alt="rouleau de printemps">
+            </div>
+
+            <div class="carousel-item">
+              <img src="assets/img/food/asiat1.jpeg" class="d-block w-100" alt="nouilles au boeuf">
+            </div>
+
+            <div class="carousel-item">
+              <img src="assets/img/food/asiat3.jpeg" class="d-block w-100" alt="ravioli à la vapeur">
+            </div>
+
+            <div class="carousel-item">
+              <img src="assets/img/food/asiat4.jpeg" class="d-block w-100" alt="beignets de crevettes et nems au poulet">
+            </div>
+
+            
+
           </div>
+
 
 
 

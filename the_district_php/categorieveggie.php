@@ -26,15 +26,13 @@
     
         <div class="container">
 
-<div class="row">
 
-  <div class="col-md-4">
     <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
- <img src="assets/img/food/pizza.jpg" assets class="img-fluid rounded-start" alt="pizza">
+ <img src="assets/img/category/veggie_cat.jpg" assets class="img-fluid rounded-start" alt="salade vegan">
       <div class="card-body">
-        <h5 class="card-title">Pizza_Margharita</h5>
+        <h5 class="card-title">Salade vegan</h5>
         <p class="card-text">
-          <small class="text-body-secondary">De bonnes pizzas , regalez-vous!</small>
+          <small class="text-body-secondary">Salade vegan</small>
           <button type="button" class="btn btn-primary btn-sm">Commander</button>
         </p>
       </div>
@@ -43,11 +41,11 @@
 
   <div class="col-md-4">
     <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-      <img src="assets/img/menu-pizza.jpg" class="img-fluid rounded-start" alt="menu_pizza">
+   <img src="assets/img/food/asiat3.jpeg"assets class="img-fluid rounded-start" alt="ravioli à la vapeur">
       <div class="card-body">
-        <h5 class="card-title">Pizza</h5>
+        <h5 class="card-title"></h5>
         <p class="card-text">
-          <small class="text-body-secondary">pizza au basilic</small>
+          <small class="text-body-secondary">Ravioli à la vapeur</small>
           <button type="button" class="btn btn-primary btn-sm">Commander</button>
         </p>
       </div>
@@ -56,11 +54,12 @@
 
 <div class="col-md-4">
   <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-    <img src="assets/img/pizza1.jpg" class="img-fluid rounded-start" alt="pizza">
+  <img src="assets/img/Team_Restau/okok.jpg" class="img-fluid rounded-start" alt="okok_manioc">
     <div class="card-body">
-      <h5 class="card-title">Pizza</h5>
-      <p class="card-text"><small class="text-body-secondary">Pizza_oignons_pomme de terre</small>Pizza</p>
+      <h5 class="card-title">okok_manioc</h5>
+      <p class="card-text"><small class="text-body-secondary">okok_manioc</small>
       <button type="button" class="btn btn-primary btn-sm">Commander</button>
+    </p>
     </div>
   </div>
 </div>

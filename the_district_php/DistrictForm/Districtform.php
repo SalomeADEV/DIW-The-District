@@ -13,17 +13,18 @@
 <Body>
 
 <?php
-require_once('header.php')
+require_once('../header.php')
 ?>
 
-
+<form action="NouveauForm.php" method="post">
         <fieldset>
           <legend>Coordonnées</legend>
           <label for="nom">Nom:</label><input type="text" name="Nom" id="?"><br>
-          <label for="nom">Prénom:</label><input type="text" name="Prénom" id="?"><br>
-          <label for="adresse">Adresse</label><input type="text" name="Adresse" id="?"><br>
-          <label for="telephone">Téléphone</label><input type="number" name="Number" id="?"><br>
-          <label for="?">Email:</label><input type="email"><br>  
+          <label for="nom">Prénom:</label><input type="text" name="Prenom" id="?"><br>
+          <label for="adresse">Adresse:</label><input type="text" name="Adresse" id="?"><br>
+          <label for="telephone">Téléphone:</label><input type="number" name="Number" id="?"><br>
+          <label for="?">Email:</label><input type="email" name="Email"><br>  
+          <label for="demande">Demande:</label><textarea cols="500" rows="4" name="demande" id="Demande"></textarea><br>  
           <p>Tous les champs sont obligatoires</p>
               
         
@@ -43,6 +44,7 @@ require_once('header.php')
           <input type="submit" value="Commandez"><br/>
           </div>
         </fieldset>
+</form>
 
 
 
@@ -53,7 +55,7 @@ require_once('header.php')
 
 
 <?php
-require_once('footer.php')
+require_once('../footer.php')
 ?>
 
 <body>

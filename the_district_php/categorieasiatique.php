@@ -18,7 +18,7 @@
   require_once('header.php')
   ?>
 
-    <!-------Plats par catégorie: Pizzas -->
+    <!-------Plats par catégorie: Asiatique-->
 
 
 
@@ -28,26 +28,26 @@
 
 <div class="row">
 
-  <div class="col-md-4">
-    <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
- <img src="assets/img/food/pizza.jpg" assets class="img-fluid rounded-start" alt="pizza">
-      <div class="card-body">
-        <h5 class="card-title">Pizza_Margharita</h5>
-        <p class="card-text">
-          <small class="text-body-secondary">De bonnes pizzas , regalez-vous!</small>
-          <button type="button" class="btn btn-primary btn-sm">Commander</button>
-        </p>
-      </div>
-    </div>
-  </div>
+<div class="col-md-4">
+              <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
+        <img src="assets/img/food/asiat1.jpeg" class="img-fluid rounded-start" alt="Asiatique">
+                <div class="card-body">
+                  <h5 class="card-title">Asiatique</h5>
+                  <p class="card-text">
+                    <small class="text-body-secondary">Nouilles au boeuf</small>
+                  </p>
+                  <button type="button" class="btn btn-primary btn-sm">Commander</button>
+                </div>
+              </div>
+            </div>
 
   <div class="col-md-4">
     <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-      <img src="assets/img/menu-pizza.jpg" class="img-fluid rounded-start" alt="menu_pizza">
+    <img src="assets/img/food/asiat2.jpeg" class="img-fluid rounded-start"  alt="Asiatique">
       <div class="card-body">
-        <h5 class="card-title">Pizza</h5>
+        <h5 class="card-title">Asiatique</h5>
         <p class="card-text">
-          <small class="text-body-secondary">pizza au basilic</small>
+          <small class="text-body-secondary">Rouleaux de printemps</small>
           <button type="button" class="btn btn-primary btn-sm">Commander</button>
         </p>
       </div>
@@ -56,11 +56,13 @@
 
 <div class="col-md-4">
   <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-    <img src="assets/img/pizza1.jpg" class="img-fluid rounded-start" alt="pizza">
+    <img src="assets/img/food/asiat4.jpeg" class="img-fluid rounded-start"  alt="Asiatique">
     <div class="card-body">
-      <h5 class="card-title">Pizza</h5>
-      <p class="card-text"><small class="text-body-secondary">Pizza_oignons_pomme de terre</small>Pizza</p>
-      <button type="button" class="btn btn-primary btn-sm">Commander</button>
+      <h5 class="card-title">Asiatique</h5>
+      <p class="card-text">
+        <small class="text-body-secondary">Nems et beignets de crevettes</small>
+        <button type="button" class="btn btn-primary btn-sm">Commander</button>
+    </p>
     </div>
   </div>
 </div>
@@ -87,4 +89,4 @@
 
 </body>
 
-</html>
+<

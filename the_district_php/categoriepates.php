@@ -30,11 +30,12 @@
 
 <div class="col-md-4">
               <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-                <a href=""> <img src="assets/img/food/tagliatelles-au-saumon.jpeg" class="img-fluid rounded-start" alt="tagliatelles"></a>
+        <img src="assets/img/food/tagliatelles-au-saumon.jpeg" class="img-fluid rounded-start" alt="tagliatelles">
                 <div class="card-body">
                   <h5 class="card-title">Tagliatelles</h5>
                   <p class="card-text">
                     <small class="text-body-secondary">Tagliatelles au saumon fumé</small>
+                    <button type="button" class="btn btn-primary btn-sm">Commander</button>
                   </p>
                 </div>
               </div>
@@ -42,11 +43,12 @@
 
   <div class="col-md-4">
     <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-      <a href=""> <img src="assets/img/food/spaghetti-legumes.jpg" class="img-fluid rounded-start"  alt="Spaghettis"></a>
+    <img src="assets/img/food/spaghetti-legumes.jpg" class="img-fluid rounded-start"  alt="Spaghettis">
       <div class="card-body">
         <h5 class="card-title">Spaghettis</h5>
         <p class="card-text">
           <small class="text-body-secondary">Spaghettis aux légumes</small>
+          <button type="button" class="btn btn-primary btn-sm">Commander</button>
         </p>
       </div>
     </div>
@@ -54,11 +56,12 @@
 
 <div class="col-md-4">
   <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
-    <img src="assets/img/food/lasagnes_viande.jpg" class="img-fluid rounded-start"  alt="Lasagnes"></a>
+    <img src="assets/img/food/lasagnes_viande.jpg" class="img-fluid rounded-start"  alt="Lasagnes">
     <div class="card-body">
       <h5 class="card-title">lasagnes_viande</h5>
       <p class="card-text">
         <small class="text-body-secondary">lasagnes_viande</small>
+        <button type="button" class="btn btn-primary btn-sm">Commander</button>
     </p>
     </div>
   </div>
