@@ -69,71 +69,90 @@
           <div class="carousel-inner">
             <div class="carousel-item active">
               <img src="assets/img/food/buffalo-chicken.webp" alt="buffalo-chicken" class="d-block w-100">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
             <div class="carousel-item">
               <img src="assets/img/food/cesar_salad.jpg" alt="cesar_salad" class="d-block w-100">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
             <div class="carousel-item">
               <img src="assets/img/food/cheesburger.jpg" alt="cheesburger" class="d-block w-100">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
             <div class="carousel-item">
               <img src="assets/img/food/hamburger.jpg" class="d-block w-100" alt="Food-hamburger">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
             <div class="carousel-item">
               <img src="assets/img/food/courgettes_farcies.jpg" class="d-block w-100" alt="courgettes_farcies">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
             <div class="carousel-item">
               <img src="assets/img/food/Food-Name-3631.jpg" class="d-block w-100" alt="Croque-monsieur">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
             <div class="carousel-item">
               <img src="assets/img/food/Food-Name-8298.jpg" class="d-block w-100" alt="pizza_aux_épinards">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
             <div class="carousel-item">
               <img src="assets/img/food/pizza-salmon.png" class="d-block w-100" alt="pizza-salmon">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
             <div class="carousel-item">
               <img src="assets/img/food/salad1.png" class="d-block w-100" alt="salad1">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
             <div class="carousel-item">
               <img src="assets/img/food/spaghetti-legumes.jpg" class="d-block w-100" alt="spaghetti-legumes">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
             <div class="carousel-item">
               <img src="assets/img/food/tagliatelles-au-saumon.jpeg" class="d-block w-100" alt="tagliatelles_saumon">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
             <div class="carousel-item">
               <img src="assets/img/Team_Restau/poulet_dg.jpg" class="d-block w-100" alt="poulet DG">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
             <div class="carousel-item">
               <img src="assets/img/Team_Restau/Poulet_Yassa.jpg" class="d-block w-100" alt="poulet_yassa">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
-            <div class="carousel-item">
-              <img src="assets/img/Team_Restau/Beignets_haricots.jpeg" class="d-block w-100" alt="beignets - haricots rouges">
-            </div>
+          <div class="carousel-item">
+            <img src="assets/img/Team_Restau/Beignets_haricots.jpeg" class="d-block w-100" alt="beignets - haricots rouges">
+            <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
+           </div>
             <div class="carousel-item">
               <img src="assets/img/Team_Restau/okok.jpg" class="d-block w-100" alt="okok avec du manioc">
-            </div>
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
+             </div>
             
             <div class="carousel-item">
               <img src="assets/img/Team_Restau/Ndole.jpg" class="d-block w-100" alt="ndolè accompagné de baton de manioc">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
             <div class="carousel-item">
               <img src="assets/img/food/asiat2.jpeg" class="d-block w-100" alt="rouleau de printemps">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
 
             <div class="carousel-item">
               <img src="assets/img/food/asiat1.jpeg" class="d-block w-100" alt="nouilles au boeuf">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
 
             <div class="carousel-item">
               <img src="assets/img/food/asiat3.jpeg" class="d-block w-100" alt="ravioli à la vapeur">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
 
             <div class="carousel-item">
+      
               <img src="assets/img/food/asiat4.jpeg" class="d-block w-100" alt="beignets de crevettes et nems au poulet">
+              <a href="the_district_php/cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
             </div>
-
-            
-
+    
           </div>
 
 
