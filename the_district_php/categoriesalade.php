@@ -35,7 +35,7 @@
                   <h5 class="card-title">Salade</h5>
                   <p class="card-text">
                     <small class="text-body-secondary">Salade Cesar</small>
-                    <button type="button" class="btn btn-primary btn-sm">Commander</button>
+                    <a href="cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
                   </p>
               
                 </div>
@@ -49,7 +49,7 @@
         <h5 class="card-title">Salade</h5>
         <p class="card-text">
           <small class="text-body-secondary">Salade au poulet</small>
-          <button type="button" class="btn btn-primary btn-sm">Commander</button>
+          <a href="cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
         </p>
       </div>
     </div>
@@ -62,8 +62,8 @@
       <h5 class="card-title">Salade</h5>
       <p class="card-text">
         <small class="text-body-secondary">Salade composée au thon</small>
-        <button type="button" class="btn btn-primary btn-sm">Commander</button>
-    </p>
+        <a href= "cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
+     </p>  
     </div>
   </div>
 </div>

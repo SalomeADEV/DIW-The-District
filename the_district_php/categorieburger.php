@@ -35,7 +35,7 @@
                   <h5 class="card-title">burger</h5>
                   <p class="card-text">
                     <small class="text-body-secondary">burger</small>
-                    <button type="button" class="btn btn-primary btn-sm">Commander</button>
+                    <a href="cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
                   </p>
                 </div>
               </div>
@@ -48,7 +48,7 @@
         <h5 class="card-title">Hamburger</h5>
         <p class="card-text">
           <small class="text-body-secondary">Hamburger</small>
-          <button type="button" class="btn btn-primary btn-sm">Commander</button>
+          <a href="cdesthedistrict.php"class="btn btn-primary btn-sm">Commander</a>
         </p>
       </div>
     </div>
@@ -61,7 +61,7 @@
       <h5 class="card-title"><Burger></h5>
       <p class="card-text">
         <small class="text-body-secondary">Burger avec feuilles de salade rouge</small>
-        <button type="button" class="btn btn-primary btn-sm">Commander</button>
+        <a href="cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
       </p>
     </div>
   </div>

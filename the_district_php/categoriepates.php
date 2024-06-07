@@ -35,7 +35,7 @@
                   <h5 class="card-title">Tagliatelles</h5>
                   <p class="card-text">
                     <small class="text-body-secondary">Tagliatelles au saumon fumé</small>
-                    <button type="button" class="btn btn-primary btn-sm">Commander</button>
+                    <a href="cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
                   </p>
                 </div>
               </div>
@@ -48,7 +48,7 @@
         <h5 class="card-title">Spaghettis</h5>
         <p class="card-text">
           <small class="text-body-secondary">Spaghettis aux légumes</small>
-          <button type="button" class="btn btn-primary btn-sm">Commander</button>
+          <a href="cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
         </p>
       </div>
     </div>
@@ -61,7 +61,7 @@
       <h5 class="card-title">lasagnes_viande</h5>
       <p class="card-text">
         <small class="text-body-secondary">lasagnes_viande</small>
-        <button type="button" class="btn btn-primary btn-sm">Commander</button>
+        <a href="cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
     </p>
     </div>
   </div>

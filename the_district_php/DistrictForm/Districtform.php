@@ -41,7 +41,7 @@ require_once('../header.php')
 
 
           <div>
-          <input type="submit" value="Commandez"><br/>
+          <input type="submit" value="Commander"><br/>
           </div>
         </fieldset>
 </form>

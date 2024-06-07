@@ -35,8 +35,8 @@
                   <h5 class="card-title">Asiatique</h5>
                   <p class="card-text">
                     <small class="text-body-secondary">Nouilles au boeuf</small>
+                    <a href="cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
                   </p>
-                  <button type="button" class="btn btn-primary btn-sm">Commander</button>
                 </div>
               </div>
             </div>
@@ -48,7 +48,7 @@
         <h5 class="card-title">Asiatique</h5>
         <p class="card-text">
           <small class="text-body-secondary">Rouleaux de printemps</small>
-          <button type="button" class="btn btn-primary btn-sm">Commander</button>
+          <a href="cdesthedistrict.php"class="btn btn-primary btn-sm">Commander</a>
         </p>
       </div>
     </div>
@@ -61,7 +61,7 @@
       <h5 class="card-title">Asiatique</h5>
       <p class="card-text">
         <small class="text-body-secondary">Nems et beignets de crevettes</small>
-        <button type="button" class="btn btn-primary btn-sm">Commander</button>
+        <a href="cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
     </p>
     </div>
   </div>

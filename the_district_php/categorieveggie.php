@@ -24,17 +24,15 @@
 
 
     
-        <div class="container">
-
-
-    <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
- <img src="assets/img/category/veggie_cat.jpg" assets class="img-fluid rounded-start" alt="salade vegan">
-      <div class="card-body">
+    <div class="container">
+     <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
+       <img src="assets/img/category/veggie_cat.jpg" assets class="img-fluid rounded-start" alt="salade vegan">
+       <div class="card-body">
         <h5 class="card-title">Salade vegan</h5>
         <p class="card-text">
           <small class="text-body-secondary">Salade vegan</small>
-          <button type="button" class="btn btn-primary btn-sm">Commander</button>
-        </p>
+          <a href="cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
+         </p>
       </div>
     </div>
   </div>
@@ -46,7 +44,8 @@
         <h5 class="card-title"></h5>
         <p class="card-text">
           <small class="text-body-secondary">Ravioli à la vapeur</small>
-          <button type="button" class="btn btn-primary btn-sm">Commander</button>
+          <a href="cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
+          
         </p>
       </div>
     </div>
@@ -58,7 +57,7 @@
     <div class="card-body">
       <h5 class="card-title">okok_manioc</h5>
       <p class="card-text"><small class="text-body-secondary">okok_manioc</small>
-      <button type="button" class="btn btn-primary btn-sm">Commander</button>
+      <a href="cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
     </p>
     </div>
   </div>

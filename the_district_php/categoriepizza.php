@@ -35,7 +35,7 @@
         <h5 class="card-title">Pizza_Margharita</h5>
         <p class="card-text">
           <small class="text-body-secondary">De bonnes pizzas , regalez-vous!</small>
-          <button type="button" class="btn btn-primary btn-sm">Commander</button>
+          <a href="cdesthedistrict.php"class="btn btn-primary btn-sm">Commander</a>
         </p>
       </div>
     </div>
@@ -48,7 +48,7 @@
         <h5 class="card-title">Pizza</h5>
         <p class="card-text">
           <small class="text-body-secondary">pizza au basilic</small>
-          <button type="button" class="btn btn-primary btn-sm">Commander</button>
+          <a href="cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
         </p>
       </div>
     </div>
@@ -60,7 +60,7 @@
     <div class="card-body">
       <h5 class="card-title">Pizza</h5>
       <p class="card-text"><small class="text-body-secondary">Pizza_oignons_pomme de terre</small>Pizza</p>
-      <button type="button" class="btn btn-primary btn-sm">Commander</button>
+      <a href="cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
     </div>
   </div>
 </div>

@@ -106,7 +106,6 @@
 
 
 
-          div class="col-md-4">
               <div class="card mb-3 mx-5 col-md-6" style="max-width: 540px;">
               <a href="categorieveggie.php">    <img src="assets/img/category/veggie_cat.jpg" class="img-fluid rounded-start" alt="veggie"></a>
                 <div class="card-body">

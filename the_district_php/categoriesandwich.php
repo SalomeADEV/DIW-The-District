@@ -35,7 +35,7 @@
         <h5 class="card-title">Sandwich</h5>
         <p class="card-text">
           <small class="text-body-secondary">Sandwich avec du pain de mie</small>
-          <button type="button" class="btn btn-primary btn-sm">Commander</button>
+          <a href="cdesthedistrict.php" class="btn btn-primary btn-sm">Commander</a>
         </p>
       </div>
     </div>
@@ -48,7 +48,7 @@
         <h5 class="card-title">Sandwich wrap</h5>
         <p class="card-text">
           <small class="text-body-secondary">Sandwich chaud au poulet</small>
-          <button type="button" class="btn btn-primary btn-sm">Commander</button>
+          <a href="cdesthedistrict.php"class="btn btn-primary btn-sm">Commander</a>
         </p>
       </div>
     </div>
@@ -60,14 +60,11 @@
     <div class="card-body">
       <h5 class="card-title">Croque-monsieur</h5>
       <p class="card-text"><small class="text-body-secondary"></small>
-      <button type="button" class="btn btn-primary btn-sm">Commander</button>
+      <a href="cdesthedistrict.php"class="btn btn-primary btn-sm">Commander</a>
     </p>
     </div>
   </div>
 </div>
-
-
-
 
 
 
