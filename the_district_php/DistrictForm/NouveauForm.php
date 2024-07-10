@@ -10,7 +10,7 @@
         <title>Nouveau_Formulaire</title> -->
     
 <?php 
-$infoscommande = "\nnom et prenom :".$_REQUEST['Nom'].",".$_REQUEST['Prenom'].", email :".$_REQUEST['Email'].", telephone :".$_REQUEST['Number'].", adresse du client :".$_REQUEST['Demande'].", date et heure de la commande :".date("d/m/Y H-i-s");
+$infoscommande = "\nom et prenom :".$_REQUEST['Nom'].",".$_REQUEST['Prenom'].", email :".$_REQUEST['Email'].", telephone :".$_REQUEST['Number'].", adresse du client :".$_REQUEST['Demande'].", date et heure de la commande :".date("d/m/Y H-i-s");
 $titre = date("Y-m-d-H-i-s");
      // Ouverture en écriture seule 
      $fp = fopen($titre.".txt", "a"); 
@@ -22,8 +22,6 @@ $titre = date("Y-m-d-H-i-s");
      fclose($fp);
 
      header("Location:Districtform.php")
-
-
 
 
 ?>

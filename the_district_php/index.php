@@ -37,7 +37,7 @@ require_once('header.php')
       <div class="card ">
         <img class="imganime card-img-top" src="assets/img/category/veggie_cat.jpg"  alt="veggie">
         <div class="card-body">
-          <h5 class="card-title">VEGGIE</h5>
+          <h5 class="card-title">VEGGIE</h5> 
         </div>
       </div>
     </div>
